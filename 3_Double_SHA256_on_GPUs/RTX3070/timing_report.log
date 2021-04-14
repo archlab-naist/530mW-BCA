@@ -1,0 +1,10 @@
+----------------------We are trying to mine a Bitcoin block----------------------
+*Block header information:
+	+Version : 37FFE000
+	+Previous Hash : 000000000000000000038973ac554e90636fae2995efa0d1725c00ac4e7dbc35
+	+Merkle Hash : 1ef117d88223949d22091e9f6aa01e7f614b9c7e7a609c25808b413639151683
+	+Timestemp : 5F715CF2
+	+Target : 170E92AA
+*Execution Time of 2^32 hashes on GPU : 21.838000 seconds
+*A found nonce:5c08fe42
+*A valid hash: 00000000000000000001cdfd8635108b051329e9afdd924c50e5aa34e46b1838
